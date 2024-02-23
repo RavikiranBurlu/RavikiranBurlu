@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RavikiranBurlu
 - 👀 I’m interested in python developer
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on best it company
+- 💞️ I’m looking to collaborate on best software company
 - - 📫 How to reach me burlu.ravikiran@gmail.com
 
 <!---
